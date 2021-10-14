@@ -1,2 +1,6 @@
 # pytorch-lightning-modules
-PyTorch-Lightning modules for some general tasks. See README for contents.
+PyTorch-Lightning modules for some general tasks. 
+
+Current contents:
+ - MLP model for supervised multiclass and binary classification.
+ - Dataloaders for batch processing.
